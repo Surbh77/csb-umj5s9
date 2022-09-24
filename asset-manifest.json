@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://surbh77.github.io/csb-umj5s9/static/css/main.924cdefb.chunk.css",
+    "main.js": "https://surbh77.github.io/csb-umj5s9/static/js/main.745648a8.chunk.js",
+    "main.js.map": "https://surbh77.github.io/csb-umj5s9/static/js/main.745648a8.chunk.js.map",
+    "runtime-main.js": "https://surbh77.github.io/csb-umj5s9/static/js/runtime-main.9c457f0a.js",
+    "runtime-main.js.map": "https://surbh77.github.io/csb-umj5s9/static/js/runtime-main.9c457f0a.js.map",
+    "static/js/2.51c71d41.chunk.js": "https://surbh77.github.io/csb-umj5s9/static/js/2.51c71d41.chunk.js",
+    "static/js/2.51c71d41.chunk.js.map": "https://surbh77.github.io/csb-umj5s9/static/js/2.51c71d41.chunk.js.map",
+    "index.html": "https://surbh77.github.io/csb-umj5s9/index.html",
+    "static/css/main.924cdefb.chunk.css.map": "https://surbh77.github.io/csb-umj5s9/static/css/main.924cdefb.chunk.css.map",
+    "static/js/2.51c71d41.chunk.js.LICENSE.txt": "https://surbh77.github.io/csb-umj5s9/static/js/2.51c71d41.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c457f0a.js",
+    "static/js/2.51c71d41.chunk.js",
+    "static/css/main.924cdefb.chunk.css",
+    "static/js/main.745648a8.chunk.js"
+  ]
+}
